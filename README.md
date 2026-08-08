@@ -4,7 +4,7 @@
 
 This project was developed during the **Tivoli Data Analytics Career Accelerator Program**, a 12-week applied analytics program through eXcelerate Analyst Training.
 
-Working as part of a three-person analytics team, I developed an interactive **Microsoft Power BI dashboard** using organizational Box Office data from the **Tivoli Theatre Foundation**. The dashboard was designed to provide executive leadership with a clear, interactive view of Month-to-Date (MTD) Box Office performance and key operational metrics.
+As part of a three-person analytics team, I was responsible for the **end-to-end development of an interactive Microsoft Power BI dashboard** using organizational Box Office data from the Tivoli Theatre Foundation. The dashboard was designed to provide executive leadership with a clear, interactive view of Month-to-Date (MTD) Box Office performance and key operational metrics.
 
 The completed dashboard was presented to the organization's **Chief Operating Officer (COO)** to demonstrate how the solution could support performance monitoring and executive decision-making.
 
@@ -89,18 +89,20 @@ The dashboard was designed with executive usability in mind. I focused on presen
 The dashboard combines summary metrics with event-, genre-, and time-based analysis so users can move from an executive overview to more detailed performance insights within a single reporting solution.
 
 
-## 🤝 Collaboration
+## 🤝 Collaboration & Individual Contribution
 
-This project was completed as part of a **three-person analytics team** during the Career Accelerator.
+This project was completed within a **three-person analytics team** during the Career Accelerator, with team members collaborating on the broader reporting engagement and preparation for the executive presentation.
 
-Team members collaborated on dashboard development, data validation, visual design, and the organization of business metrics to ensure the final solution communicated Box Office performance clearly and effectively.
+I was responsible for the **end-to-end development of the Power BI dashboard**, including connecting the SharePoint-hosted data, selecting and building the KPIs and visualizations, designing the dashboard layout and interactive features, and validating the final reporting outputs.
+
+The team worked together to review the completed solution and prepare for its presentation to executive leadership.
 
 
 ## 🎤 Executive Presentation
 
-The completed dashboard was presented to the **Tivoli Theatre Foundation's Chief Operating Officer (COO)**.
+I presented the completed dashboard to the **Tivoli Theatre Foundation's Chief Operating Officer (COO)**, communicating key operational KPIs and demonstrating how the interactive dashboard could be used to monitor Box Office performance and support executive decision-making.
 
-During the presentation, we communicated key operational KPIs and demonstrated how the interactive dashboard could be used to monitor Box Office performance and support executive decision-making.
+The presentation provided an opportunity to explain the dashboard's functionality, walk through key performance metrics, and demonstrate how the solution transformed Box Office data into an accessible executive reporting tool.
 
 
 ## 🔗 View the Interactive Dashboard
