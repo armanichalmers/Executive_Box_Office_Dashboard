@@ -15,7 +15,7 @@ This project was originally developed using real organizational data. To protect
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9">
-    <img width="800" 
+    <img width="700" 
          alt="Executive Box Office Sales Dashboard" 
          src="https://github.com/user-attachments/assets/471a26c7-2e42-4bb5-b206-330334c60562" />
   </a>
