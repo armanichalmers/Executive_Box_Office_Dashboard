@@ -105,7 +105,7 @@ During the presentation, we communicated key operational KPIs and demonstrated h
 
 ## 🔗 View the Interactive Dashboard
 
-[View the Live Power BI Dashboard](eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+[View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 
 ## 📚 Skills Demonstrated
