@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed during the **Tivoli Data Analytics Career Accelerator Program**, a 12-week applied analytics program through eXcelerate Analyst Training.
+This project was developed during the **Tivoli Theatre Foundation Data Analytics Career Accelerator Program**, a 12-week applied analytics program through eXcelerate Analyst Training.
 
 As part of a three-person analytics team, I was responsible for the **end-to-end development of an interactive Microsoft Power BI dashboard** using organizational Box Office data from the Tivoli Theatre Foundation. The dashboard was designed to provide executive leadership with a clear, interactive view of Month-to-Date (MTD) Box Office performance and key operational metrics.
 
