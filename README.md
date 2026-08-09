@@ -1,4 +1,4 @@
-# 📊 Executive Box Office Sales Dashboard
+# 📊 Executive Box Office Sales Dashboard for Tivoli Theatre Foundation
 
 ## Project Overview
 
