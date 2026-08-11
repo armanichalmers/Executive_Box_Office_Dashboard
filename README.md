@@ -13,6 +13,8 @@ The completed dashboard was presented to the organization's **Chief Operating Of
 
 This project was originally developed using real organizational data. To protect organizational confidentiality, the publicly displayed version has been anonymized and modified. Event names, values, and other identifying information shown in the portfolio dashboard do not represent actual organizational performance.
 
+## 🔗 View the Interactive Dashboard
+
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9">
     <img width="660" 
@@ -24,6 +26,8 @@ This project was originally developed using real organizational data. To protect
 <p align="center">
   <em>Click the dashboard image to view the interactive Power BI report.</em>
 </p>
+
+[🔗 View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 ## 🎯 Business Objective
 
@@ -103,11 +107,6 @@ The team worked together to review the completed solution and prepare for its pr
 I presented the completed dashboard to the **Tivoli Theatre Foundation's Chief Operating Officer (COO)**, communicating key operational KPIs and demonstrating how the interactive dashboard could be used to monitor Box Office performance and support executive decision-making.
 
 The presentation provided an opportunity to explain the dashboard's functionality, walk through key performance metrics, and demonstrate how the solution transformed Box Office data into an accessible executive reporting tool.
-
-
-## 🔗 View the Interactive Dashboard
-
-[View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 
 ## 📚 Skills Demonstrated
