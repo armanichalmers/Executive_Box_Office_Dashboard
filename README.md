@@ -13,7 +13,7 @@ The completed dashboard was presented to the organization's **Chief Operating Of
 
 This project was originally developed using real organizational data. To protect organizational confidentiality, the publicly displayed version has been anonymized and modified. Event names, values, and other identifying information shown in the portfolio dashboard do not represent actual organizational performance.
 
-## 💻 View the Interactive Dashboard
+## 💻 Interactive Dashboard
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9">
